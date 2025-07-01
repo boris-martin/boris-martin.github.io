@@ -3,9 +3,6 @@ layout: default
 title: CV
 ---
 
-# Curriculum Vitae
-
-[Download PDF](assets/cv.pdf)
 
 ## Education
 - PhD in Scientific Computing – Your University
